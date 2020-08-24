@@ -12,7 +12,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2 style="text-align:center">Hello World</h2>
+<h2 style="text-align:center">Hello World✋</h2>
 <hr>
+<div class="social-icons">
+  Hi Web Developers
+</div>
+  
 
   
