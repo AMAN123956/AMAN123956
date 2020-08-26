@@ -50,4 +50,5 @@ Here are some ideas to get you started:
 <div class="social-icons">
   Hi Web Developers
 </div>
-  
+https://use.fontawesome.com/c9ad43cc06.js
+<i class="fa fa-linkedin"></i>
