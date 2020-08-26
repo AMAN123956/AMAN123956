@@ -11,6 +11,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1>AMAN DIXIT</h1>
+<i class="fab fa-linkedin"></i>
 
 <h2 style="text-align:center">Hello World✋</h2>
 <hr>
