@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <!-- display the social media buttons in your README -->
 
-[![alt text][1.1]][1]
+[![aman123956][1.1]][1]
 [![alt text][2.1]][2]
 [![alt text][3.1]][3]
 [![alt text][4.1]][4]
