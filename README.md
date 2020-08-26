@@ -20,6 +20,6 @@ Here are some ideas to get you started:
   Hi Web Developers
 </div> -->
 ### AMAN DIXIT -aka [IplFeverr][website]
-
-[<img align="left" alt="iplFeverr.com" width="22px" src="https://simpleicons.org/icons/instagram.svg"/>][website]
-
+### Hi there,
+[<img  align="left" alt="iplFeverr.com" width="22px" src="https://simpleicons.org/icons/instagram.svg" />]
+[website]
