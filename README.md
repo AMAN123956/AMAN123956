@@ -11,12 +11,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1>AMAN DIXIT</h1>
+<!--<h1>AMAN DIXIT</h1>
 
 
 <h2 style="text-align:center">Hello World✋</h2>
 <hr>
 <div class="social-icons">
   Hi Web Developers
-</div>
+</div> -->
+### AMAN DIXIT -aka [IplFeverr][website]
+
+[<img align="left" alt="iplFeverr.com" width="22px" src="https://simpleicons.org/icons/instagram.svg"/>][website]
 
