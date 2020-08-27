@@ -7,7 +7,7 @@
 <br/>
 ## I'm a Web Developer
 
--🔭 I’m currently working on a backend Project IPLfeverr[website]
+-🔭 I’m currently working on a backend Project IPLfeverr[website]            
 - 🌱 I’m currently learning ReactJS
 - 👯 I’m looking to collaborate on Project involving ReactJS
 - 🤔 I’m looking for help with Backend Web Development
@@ -17,12 +17,8 @@
 
 
 
-
-
-
 <br />
 <br />
-
 
 [website]:  https://www.linkedin.com/in/aman-dixit-b371b9190/
 [gmail]:  mailto:amandixit033@gmail.com
