@@ -1,5 +1,5 @@
 ### AMAN DIXIT -aka [IplFeverr][website]
-[<img align="left" alt="iplFeverr.com" width="22px" src="https://simpleicons.org/icons/linkedin.svg"/>][linkedin]
+[<img align="left" alt="iplFeverr.com" width="22px" src="https://simpleicons.org/icons/linkedin.svg"/>]<span>Linkedin</span>[linkedin]
 
 
 <br/>
