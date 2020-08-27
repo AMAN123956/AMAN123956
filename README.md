@@ -1,8 +1,9 @@
 ### AMAN DIXIT -aka [IplFeverr][website]
 [<img align="left" alt="iplFeverr.com" width="22px" src="https://simpleicons.org/icons/linkedin.svg"/>][linkedin]
 
-[<img align="left" alt="iplFeverr.com" width="22px" src="https://simpleicons.org/icons/gmail.svg"/>][gmail]
-
+[<img align="left" alt="iplFeverr.com" width="22px" src="https://simpleicons.org/icons/gmail.svg"/>]amandixit033@gmail.com
+<br/>
+<br/>
 ## I'm a Web Developer
 
 -🔭 I’m currently working on a backend Project IPLfeverr[website]
@@ -22,4 +23,4 @@
 <br />
 
 [linkedin]: https://www.linkedin.com/in/aman-dixit-b371b9190/
-[gmail]: "mailto:amandixit033@gmail.com"
+
