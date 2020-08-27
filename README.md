@@ -1,7 +1,5 @@
 ### AMAN DIXIT -aka [IplFeverr][website]
-[<img align="left" alt="iplFeverr.com" width="22px" src="https://simpleicons.org/icons/linkedin.svg"/>]<span>Linkedin</span>[linkedin]
-
-
+![Linkedin URL](https://img.shields.io/twitter/url?color=gray&label=linkedin&logo=linkedin&style=flat-square&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Faman-dixit-b371b9190%2F)
 <br/>
 <br/>
 ## I'm a Web Developer
@@ -22,5 +20,4 @@
 <br />
 <br />
 
-[linkedin]: https://www.linkedin.com/in/aman-dixit-b371b9190/
 
