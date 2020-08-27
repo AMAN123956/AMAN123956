@@ -1,5 +1,5 @@
 ### AMAN DIXIT -aka [IplFeverr][website]
-![Linkedin URL](https://img.shields.io/twitter/url?color=gray&label=linkedin&logo=linkedin&style=flat-square&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Faman-dixit-b371b9190%2F)
+![https://www.linkedin.com/in/aman-dixit-b371b9190/](https://img.shields.io/twitter/url?color=gray&label=linkedin&logo=linkedin&style=flat-square&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Faman-dixit-b371b9190%2F)
 <br/>
 <br/>
 ## I'm a Web Developer
