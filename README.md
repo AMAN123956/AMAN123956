@@ -1,7 +1,7 @@
 ### AMAN DIXIT -aka [IplFeverr][website]
 [<img align="left" alt="iplFeverr.com" width="22px" src="https://simpleicons.org/icons/linkedin.svg"/>][linkedin]
 
-<h2><img align="left" alt="iplFeverr.com" width="22px" src="https://simpleicons.org/icons/gmail.svg"/>amandixit033@gmail.com</h2>
+<h6 style="border:2px solid red;"><img align="left" alt="iplFeverr.com" width="22px" src="https://simpleicons.org/icons/gmail.svg"/><span>amandixit033@gmail.com</span></h6>
 <br/>
 <br/>
 ## I'm a Web Developer
