@@ -1,7 +1,9 @@
 ### AMAN DIXIT -aka [IplFeverr][website]
-
-[<img alt="Twitter URL" src="https://img.shields.io/static/v1?label=aman-dixit&message=dixit&logo=linkedin&logoColor=white&style=flat-square">][website]
 <br/>
+<br/>
+Connect me through
+
+[<img alt="Twitter URL" width="130px" src="https://img.shields.io/twitter/url?color=gray&label=aman-dixit&logo=linkedin&logoColor=white&style=flat-square&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Faman-dixit-b371b9190%2F">][website]
 <br/>
 ## I'm a Web Developer
 
