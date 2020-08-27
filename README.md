@@ -1,7 +1,7 @@
 ### AMAN DIXIT -aka [IplFeverr][website]
 [<img align="left" alt="iplFeverr.com" width="22px" src="https://simpleicons.org/icons/linkedin.svg"/>][linkedin]
 
-[<img align="left" alt="iplFeverr.com" width="22px" src="https://simpleicons.org/icons/gmail.svg"/> ]
+[<img align="left" alt="iplFeverr.com" width="22px" src="https://simpleicons.org/icons/gmail.svg"/>][gmail]
 
 ## I'm a Web Developer
 
@@ -22,3 +22,4 @@
 <br />
 
 [linkedin]: https://www.linkedin.com/in/aman-dixit-b371b9190/
+[gmail]: "mailto:amandixit033@gmail.com"
