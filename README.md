@@ -1,6 +1,6 @@
 ### AMAN DIXIT -aka [IplFeverr][website]
 
-[<img alt="Twitter URL" src="https://img.shields.io/static/v1?label=aman-dixit&logo=linkedin&logoColor=white&style=flat-square">][website]
+[<img alt="Twitter URL" src="https://img.shields.io/static/v1?label=aman-dixit&message=dixit&logo=linkedin&logoColor=white&style=flat-square">][website]
 <br/>
 <br/>
 ## I'm a Web Developer
