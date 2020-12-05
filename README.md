@@ -1,10 +1,13 @@
 ## AMAN DIXIT 
-[<img alt="Twitter URL" width="150px" src="https://img.shields.io/twitter/url?color=gray&label=aman-dixit&logo=linkedin&logoColor=white&style=plastice&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Faman-dixit-b371b9190%2F">][linkedin]
-[<img alt="Twitter URL" width="150px" src="https://img.shields.io/twitter/url?color=gray&label=lazyamaan&logo=gmail&logoColor=white&style=plastic&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Faman-dixit-b371b9190%2F">][gmail]
-[<img alt="Website" width="150px" src="https://img.shields.io/website?down_color=red&down_message=offline&label=devaman&logo=netlify&up_color=blue&up_message=online&url=https%3A%2F%2Fdevwebaman.netlify.app%2F">][profile]
-[<img alt="Website" width="150px" src="https://komarev.com/ghpvc/?username=AMAN123956&style=flat">][profile]
-
-
+<a href="https://github.com/AMAN123956" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.linkedin.com/in/aman-dixit-b371b9190/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/AmanDix73829574" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>  
 <hr />
 ## I'm a Web Developer
 
