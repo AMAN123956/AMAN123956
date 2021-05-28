@@ -8,11 +8,11 @@
 <hr />
 ## I'm a Web Developer
 
--🔭 I’m currently working on a backend Project IPLfeverr           
+-🔭 I’m currently working on a Project JSSCIRCLE.          
 - 🌱 I’m currently learning ReactJS
 - 👯 I’m looking to collaborate on Project involving ReactJS
 - 🤔 I’m looking for help with Backend Web Development
-- 💬 Ask me about Web Designing and JavaScript Bugs
+- 💬 Ask me about Backend Development and JavaScript Bugs
 
 <br />
 <hr />
