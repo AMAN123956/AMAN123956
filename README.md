@@ -1,10 +1,9 @@
-## AMAN DIXIT 
+# Hi There! myself Aman Dixit
+### I am a second year student pursing Btech in Information Technology from JSS Academy of Technical Education.I am a full-stack web developed who is quite passionate about web development, I am an open-source enthusiast and love contributing to other's project. I enjoy solving complex problems in unique ways. Unique-Ideas and being able to translate them into real-life projects is one of the top skill in me. I like working in team environment and enjoy leading the team.
 <a href="https://www.linkedin.com/in/aman-dixit-b371b9190/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/AmanDix73829574" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>  
+
 <hr />
 ## I'm a Web Developer
 
