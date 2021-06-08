@@ -1,12 +1,12 @@
 # Hi There! myself Aman Dixit
-### I am a second year student pursing Btech in Information Technology from JSS Academy of Technical Education.I am a full-stack web developed who is quite passionate about web development, I am an open-source enthusiast and love contributing to other's project. I enjoy solving complex problems in unique ways. Unique-Ideas and being able to translate them into real-life projects is one of the top skill in me. I like working in team environment and enjoy leading the team.
+### I am a second year student pursing Btech in Information Technology from JSS Academy of Technical Education🎒.I am a full-stack web developer who is quite passionate about web development, I am an open-source enthusiast and love contributing to other's project. I enjoy solving complex problems in unique ways. Unique-Ideas💡 and being able to translate them into real-life projects is one of the top skill in me. I like working in team environment and enjoy leading the team.
 <a href="https://www.linkedin.com/in/aman-dixit-b371b9190/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 
-<hr />
-## I'm a Web Developer
 
+
+## Personal Stuffs about Me:
 -🔭 I’m currently working on a Project JSSCIRCLE.          
 - 🌱 I’m currently learning ReactJS
 - 👯 I’m looking to collaborate on Project involving ReactJS
@@ -14,9 +14,9 @@
 - 💬 Ask me about Backend Development and JavaScript Bugs
 
 <br />
-<hr />
 
-<h1 align="left">Technologies</h1>
+
+## Technologies:
  
 <p align="left">
 <code>
@@ -34,6 +34,7 @@
 </code>
 </p>
 
+## Stats 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AMAN123956&theme=cobalt" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=AMAN123956&show_icons=true&hide=contribs,issues&theme=cobalt" />
 
