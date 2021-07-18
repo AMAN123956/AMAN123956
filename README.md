@@ -17,10 +17,6 @@
 
 - 💬 Ask me about **Javascript Bugs,Backend Development**
 
-- 📫 How to reach me **amandixit033@gmail.com**
-
-
-- ⚡ Fun fact **In my free time u can find listening to Music**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
