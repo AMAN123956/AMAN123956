@@ -49,3 +49,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
+
+![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=AMAN123956&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aman123956&layout=compact)](https://github.com/aman123956/github-readme-stats)
+
