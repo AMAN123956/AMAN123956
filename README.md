@@ -49,10 +49,3 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
-
-### Stats:
-<img width=300 height=500 align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aman123956&show_icons=true&locale=en&layout=compact" alt="aman123956" />
-&nbsp;<img width=500 height=500 align="left" src="https://github-readme-stats.vercel.app/api?username=aman123956&show_icons=true&locale=en" alt="aman123956" />
-<p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aman123956&" alt="aman123956" />
-</p>
