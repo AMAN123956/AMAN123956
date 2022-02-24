@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aman Dixit</h1>
-<h3>I am currently pursing Btech in Information Technology from JSS Academy of Technical Education.I am a Backend Developer who is quite passionate about web development, I am an open-source enthusiast and love contributing to other's project. I enjoy solving complex problems in unique ways. Unique-Ideas💡 and being able to translate them into real-life projects is one of the top skill in me. I like working in team environment and enjoy leading the team.</h3>
+<h3>I am a Full-Stack Web Devloper who is quite passionate about web development,I am an open-source enthusiast and love contributing to other's project. I enjoy solving complex problems in unique ways.Unique-Ideas💡 and being able to translate them into real-life projects is one of the top skill in me. I like working in team environment and enjoy leading the team.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aman123956&label=Profile%20views&color=0e75b6&style=flat" alt="aman123956" /> </p>
 
