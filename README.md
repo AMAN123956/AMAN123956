@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aman123956&label=Profile%20views&color=0e75b6&style=flat" alt="aman123956" /> </p>
 
-- 🔭 I’m currently working on **JSSCIRCLE**
+- 🔭 Resume Link [RESUME](https://drive.google.com/file/d/1Gmde4DBf3yEfJ0T4PnaNihFBOrlFkFPF/view?usp=sharing)
 
 - 🌱 I’m currently learning **ReactJS,Socket.io**
 
