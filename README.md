@@ -5,7 +5,7 @@
 
 - 🔭 Resume Link [RESUME](https://drive.google.com/file/d/1Gmde4DBf3yEfJ0T4PnaNihFBOrlFkFPF/view?usp=sharing)
 
-- 🌱 I’m currently learning **ReactJS,Socket.io**
+- 🌱 I’m currently learning **Golang, Webrtc**
 
 - 👯 I’m looking to collaborate on [JSSCONNECT](https://jssconnect.herokuapp.com)
 
