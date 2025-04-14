@@ -17,7 +17,7 @@
 - 👨‍💻 Explore all my projects on my **[Portfolio](https://www.amandixit.me)**
 - 📝 I share my tech knowledge at my **[Personal Blog](https://javascript-blogs.netlify.app)**
 - 💬 Ask me about **JavaScript, Backend Architecture, RESTful APIs, System Design**
-- 📫 Reach me at: **yourEmail@example.com**
+- 📫 Reach me at: **amandixit033@gmail.com**
 - 📄 Check out my [RESUME](https://drive.google.com/file/d/1Gmde4DBf3yEfJ0T4PnaNihFBOrlFkFPF/view?usp=sharing)
 
 ## 🌐 Connect With Me
