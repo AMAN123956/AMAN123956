@@ -5,6 +5,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Turning+Ideas+into+Real+Life+Projects+%F0%9F%92%BB;I+Love+Creating+and+Contributing+to+Open+Source+%E2%9D%A4%EF%B8%8F;Always+Exploring+New+Tech+%F0%9F%94%8E;Let%27s+Build+Something+Awesome+Together+%F0%9F%A4%AA" alt="Typing SVG" />
 </p>
 
+
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aman123956&label=Profile%20views&color=0e75b6&style=flat" alt="aman123956" />
 </p>
